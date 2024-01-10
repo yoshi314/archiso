@@ -1,13 +1,12 @@
 # addons
-dmenu
-rofi
-pcmanfm
+plasma
+wayland
 gthumb
 elinks
 firefox
-xorg
-xorg-drivers
-i3
+#xorg
+#xorg-drivers
+i3-wm
 sddm
 mpv
 gwenview
@@ -30,7 +29,6 @@ xfce4
 newsboat
 git
 vivaldi
-pcsx2
 strawberry
 gwenview
 #base
