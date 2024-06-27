@@ -163,3 +163,9 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+# trizen deps
+perl-term-ui
+perl-json
+perl-http-message
+perl-lwp-protocol-https
+perl-data-dump
