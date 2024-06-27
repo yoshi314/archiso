@@ -1,5 +1,6 @@
 # addons
 plasma
+lxqt
 wayland
 gthumb
 elinks
@@ -154,7 +155,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-wezterm-terminfo
+#wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
