@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rvf work/* build/*
+rm -rvf work/*

@@ -29,8 +29,10 @@ xfce4
 newsboat
 git
 vivaldi
+vivaldi-ffmpeg-codecs
 strawberry
 gwenview
+arch-wiki-docs
 #base
 alsa-utils
 amd-ucode
@@ -66,7 +68,6 @@ f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -128,7 +129,6 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -155,7 +155,6 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-#wezterm-terminfo
 wireless-regdb
 wireless_tools
 wpa_supplicant
