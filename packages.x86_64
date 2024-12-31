@@ -5,6 +5,13 @@ wayland
 gthumb
 elinks
 firefox
+hyprland
+hypridle
+hyprpaper
+nwg-displays
+nwg-dock-hyprland
+nwg-panel
+xdg-desktop-portal-hyprland
 #xorg
 #xorg-drivers
 i3-wm
